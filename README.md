@@ -1,5 +1,5 @@
 # This is the official Memree git hub repository
-###### For information: info@memree.com
+###### For information: hello@memree.com
 
 <!---
 memree-app/memree-app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
